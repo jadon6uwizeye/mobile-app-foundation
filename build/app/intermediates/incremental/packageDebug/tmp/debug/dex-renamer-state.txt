@@ -1,0 +1,4 @@
+#Fri Mar 11 11:13:55 CAT 2022
+base.0=/home/florbert/Documents/jadon/flutter/quizz_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
